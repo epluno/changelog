@@ -1,23 +1,7 @@
-## Current Release
+# Upcoming Releases
+[![Current Release](https://img.shields.io/github/release/epluno/changelog.svg?style=for-the-badge&logo=github&logoColor=white&colorA=101119&colorB=00b586)](https://github.com/epluno/changelog/releases/latest)
 
-> `v0.5.0-beta`
 
-###### Point of Sale:
-
-* Added
-  *  
-* Changed
-  *  
-*  Deprecated
-  *  Backorder popup interface
-  *  Backorder button
-*  Removed
-  *  
-*  Fixed
-  * 
-* Security
-  * Update Stripe terminal API and SDK tokens
-  * Registered terminal to Donalds retail location
 
 ## Unreleased
 

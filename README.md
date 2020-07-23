@@ -38,7 +38,7 @@ The below table is a breakout of the Semantic Versioning system:
 
 #### How our changelog works
 
-Just like our versioning convention our changelogs follow a standard format based on [Keep A Changelog](https://keepachangelog.com/en/1.0.0/). Our only modification is on how we manage the changelog - We outline a generalized view of our roadmap and it showcased under the **Unreleased** section, while keeping the current version at the top of document. 
+Just like our versioning convention our changelogs follow a standard format based on [Keep A Changelog](https://keepachangelog.com/en/1.0.0/). Our only modification is on how we manage the changelog - We outline a generalized view of our roadmap and it showcases under the **Unreleased** section. Items that are listed under this section are planned features, but may or may not make it into the schedule. Under the **Releases** section, the latest release will always be at the top of the document. 
 
 Under each release we will provide a list of changed known as [types](https://keepachangelog.com/en/1.0.0/#types) made during the release. 
 
@@ -48,5 +48,8 @@ The objective of this list is to outline the primary outstanding tasks and plann
 
 
 
-<a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/blob/master/CHANGELOG.md">View Full Changelog →</a>
+<a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/releases">View All Releases →</a>
+
+<a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/blob/master/UPCOMING.md">View Upcoming Releases →</a>
+
 

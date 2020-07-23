@@ -1,8 +1,10 @@
 # ⬖ scrd Changelog 
 
-As of `07-21-2020`
+[![release](https://img.shields.io/github/release/epluno/changelog.svg?style=for-the-badge&logo=github&logoColor=white&colorA=101119&colorB=00b586)](https://github.com/epluno/changelog/releases/latest)
 
 [TOC]
+
+
 * [Long-Term Objective](#long-term-objective)
 * [A World, Post v1.0.0](#a-world-post-v100)
   * [How our changelog works](#how-our-changelog-works)

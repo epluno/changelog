@@ -40,3 +40,6 @@ Under each release we will provide an list of [Type of changes](https://keepacha
 
 The objective of this list is to outline the primary outstanding tasks and planned features for a `v1.0.0` release (major release), which will bring ⬖ srcd out of beta. 
 
+
+
+<button style="border: none; background:#42b983; color: white; padding: .25rem 1rem;"><a href="https://github.com/epluno/changelog/CHANGELO"</button>

@@ -4,9 +4,9 @@ As of `07-21-2020`
 
 [TOC]
 * [Long-Term Objective](#long-term-objective)
-* [A World, Post v1.0.0](#a-world-post-v1.0.0)
+* [A World, Post v1.0.0](#a-world-post-v100)
   * [How our changelog works](#how-our-changelog-works)
-* [From Beta to v1.0.0](#from-beta-to-v1.0.0)
+* [From Beta to v1.0.0](#from-beta-to-v100)
 
 ## Long-Term Objective
 

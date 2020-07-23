@@ -3,6 +3,10 @@
 As of `07-21-2020`
 
 [TOC]
+* [Long-Term Objective](#long-term-objective)
+* [A World, Post v1.0.0](#a-world-post-v1.0.0)
+  * [How our changelog works](#how-our-changelog-works)
+* [From Beta to v1.0.0](#from-beta-to-v1.0.0)
 
 ## Long-Term Objective
 
@@ -34,12 +38,13 @@ The below table is a breakout of the Semantic Versioning system:
 
 Just like our versioning convention our changelogs follow a standard format based on [Keep A Changelog](https://keepachangelog.com/en/1.0.0/). Our only modification is on how we manage the changelog - We outline a generalized view of our roadmap and it showcased under the **Unreleased** section, while keeping the current version at the top of document. 
 
-Under each release we will provide an list of [Type of changes](https://keepachangelog.com/en/1.0.0/#types) made during this release. 
+Under each release we will provide a list of changed known as [types](https://keepachangelog.com/en/1.0.0/#types) made during the release. 
 
-## From beta → v1.0.0
+## From beta to v1.0.0
 
 The objective of this list is to outline the primary outstanding tasks and planned features for a `v1.0.0` release (major release), which will bring ⬖ srcd out of beta. 
 
 
 
-<button style="border: none; background:#42b983; color: white; padding: .25rem 1rem;"><a href="https://github.com/epluno/changelog/CHANGELO"</button>
+<a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/blob/master/CHANGELOG.md">View Full Changelog →</a>
+

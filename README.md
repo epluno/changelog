@@ -18,6 +18,8 @@
 
  ⬖ scrd will continue following [Semantic Versioning](https://semver.org/) , with a development release schdule for major, minor, and patch releases. This schedule will span every 12 months for **major releases**, every 6 weeks for **minor releases**, and every 2 weeks for **patch releases**. 
 
+** **PLEASE NOTE** that the schedule is not set in stone and can change
+
 >Given a version number **MAJOR.MINOR.PATCH**, increment the:[^cite-1]
 >
 >1. **MAJOR** version when you make incompatible API changes,
@@ -52,4 +54,8 @@ The objective of this list is to outline the primary outstanding tasks and plann
 
 <a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/blob/master/UPCOMING.md">View Upcoming Releases →</a>
 
+0
 
+ +
+
+9654\

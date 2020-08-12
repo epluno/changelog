@@ -53,9 +53,3 @@ The objective of this list is to outline the primary outstanding tasks and plann
 <a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/releases">View All Releases →</a>
 
 <a style="color: white; background: #42b983; padding: .25rem 1rem; border-radius: 4px;" href="https://github.com/epluno/changelog/blob/master/UPCOMING.md">View Upcoming Releases →</a>
-
-0
-
- +
-
-9654\

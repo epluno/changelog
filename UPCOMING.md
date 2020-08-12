@@ -1,9 +1,7 @@
-# Upcoming Releases
+# Unreleased Releases
 [![Current Release](https://img.shields.io/github/release/epluno/changelog.svg?style=for-the-badge&logo=github&logoColor=white&colorA=101119&colorB=00b586)](https://github.com/epluno/changelog/releases/latest)
 
-
-
-## Unreleased
+---
 
 ##### `v0.6.0` -  planned release date: 8/31/2020
 
@@ -32,6 +30,8 @@
 * Email Notification Templates: - added to release `v0.5.8`
   * Additional information added for manual accounting processes.
 
+---
+
 ##### `v0.7.0` -  planned release date: 10/09/2020
 
 * Program specific garment structure **_(ideally this is to be released on `v0.6.5`)_**
@@ -50,6 +50,8 @@
     * template design for static/dumb components
     * Integrate Flightdeck /GoTemplates for future improvements to headless (API)
 
+---
+
 ##### `v0.8.0` -  planned release date: 11/25/2020
 
 * Inventory Management (start of feature - this is a sub-system)
@@ -63,6 +65,8 @@
 * Customer Management (start of feature - this is a sub-system)
   * related to Oauth
   * betters CRUD - extensive systems control user to user, user to group, group to user, 
+
+---
 
 ##### `v0.9.0`-  planned release date: 1/22/2020
 

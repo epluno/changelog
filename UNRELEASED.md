@@ -3,37 +3,6 @@
 
 ---
 
-##### `v0.6.0` -  planned release date: 8/31/2020
-
-* e-commerce multi-site (start of feature - this is a sub-system has its own releases `v0.3.1`)
-  - Custom Reporting - (start of feature)
-    - Integration of particle shippment order statuses
-      - `Partially Shipped`
-      - `Shipped` or `Complete`
-      - `Not Shipped`
-    - custom filters for report generation to export of csv
-* Point-of-Sale
-  - Back order handling - related to Partial Shipment order status
-    - workflow and UX of backorder is now simplified.
-      - add items to cart that are flagged as `Partially Shipped` _(these are items that physically have left the retail store)_
-    - custom order status for Partial Shipments
-    - customer account and shipping details are now **required** by default.
-  - Performance improvements - query times
-    - faster garment loading with variants and per school program
-  - Re-evaluate the UX and UI
-    - more user friendly UI for **touch only** interfaces
-* Shop Builder (start of feature - this is a sub-system has its own releases  `v0.0.2`) 
-  * ~~New store creation:~~ **added to release `v0.5.8`**
-    - ~~Clone option~~
-  * ~~CSV product import - optimization for performance:~~ **added to release `v0.5.8`**
-    - Column Mapping
-      - Ux/Ui modifications
-  * Usability Guide / Tutorial - How to use
-* ~~Email Notification Templates:~~ - **added to release `v0.5.8`**
-  * ~~Additional information added for manual accounting processes.~~
-
----
-
 ##### `v0.7.0` -  planned release date: 10/09/2020
 
 * Program specific garment structure **_(ideally this is to be released on `v0.6.5`)_**

@@ -1,6 +1,6 @@
 # ⬖ scrd Changelog 
 
-[![release](https://img.shields.io/github/release/epluno/changelog.svg?style=for-the-badge&logo=github&logoColor=white&colorA=101119&colorB=00b586)](https://github.com/epluno/changelog/releases/latest)
+[![release](https://img.shields.io/github/release/epluno/changelog.svg?style=for-the-badge&logo=github&logoColor=white&colorA=101119&colorB=0060ff)](https://github.com/epluno/changelog/releases/latest) [![UNRLEASED](https://img.shields.io/badge/review%20all-unrleased%20features%20→-red?style=for-the-badge&colorA=101119&colorB=0060ff)](https://github.com/epluno/changelog/blob/master/UNRELEASED.md)
 
 [TOC]
 
